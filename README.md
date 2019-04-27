@@ -1,2 +1,2 @@
 # jquery
-lesson of jQuery on freeCodeCamp
+Lessons of jQuery on freeCodeCamp
