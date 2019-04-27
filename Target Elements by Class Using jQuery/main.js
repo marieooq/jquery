@@ -1,6 +1,8 @@
 <script>
   $(document).ready(function() {
     $("button").addClass("animated bounce");
+    $(".well").addClass("animated bounce");
+    $(".well").addClass("shake");
   });
 </script>
 
@@ -26,4 +28,4 @@
       </div>
     </div>
   </div>
-</di
+</div>
